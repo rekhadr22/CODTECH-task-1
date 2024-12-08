@@ -25,8 +25,7 @@ OVERVIEW OF THE PROJECT
    - Analyze distributions of key variables (age, fare, passenger class).
    - Detect patterns, trends, and relationships within the data.
 
-4. **Report Findings**:
-   - Summarize and present key insights that will inform future analysis or predictive modeling efforts.
+ts.
 
 
 #### **Key Activities**
@@ -78,7 +77,7 @@ OVERVIEW OF THE PROJECT
    - **Seaborn**: For creating more advanced statistical visualizations, including heatmaps and pair plots.
 
 3. **Tools**:
-   - **Jupyter Notebook** or **Google Colab**: For writing and executing Python code in an interactive environment.
+   - **Jupyter Notebook** : For writing and executing Python code in an interactive environment.
    - **GitHub**: To store and share the notebook or project.
 
 #### **Expected Outcomes**
