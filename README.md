@@ -6,7 +6,6 @@ Domain:DATA ANALYTICS
 Duration:10th Nov 2024 to 10th Dec 2024
 Mentor name:
 
-
 OVERVIEW OF THE PROJECT
 
   ### Task 1: Exploratory Data Analysis (EDA) using Titanic Dataset
