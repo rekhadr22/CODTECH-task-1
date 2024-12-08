@@ -1,14 +1,14 @@
 # CODTECH-task-1
-NAME:Rekha D
-Company:CODTECH IT SO
-ID:CTO8DS9846
-Domain:DATA ANALYTICS
-Duration:10th Nov 2024 to 10th Dec 2024
-Mentor name:
+## **NAME:Rekha D**
+## **Company:CODTECH IT SOLUTIONS**
+## **ID:CTO8DS9846**
+## **Domain:DATA ANALYTICS**
+## **Duration:10th Nov 2024 to 10th Dec 2024**
+## **Mentor name:  **
 
-OVERVIEW OF THE PROJECT
+## **OVERVIEW OF THE PROJECT**
 
-  ### Task 1: Exploratory Data Analysis (EDA) using Titanic Dataset
+  ### Task 1:  Exploratory Data Analysis (EDA) using Titanic Dataset
 
 #### **Objectives**
 1. **Understand the Dataset**:
